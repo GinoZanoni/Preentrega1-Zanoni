@@ -1,0 +1,44 @@
+body {
+    font-family: Cambria, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: cadetblue;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+
+nav {
+    background-color: beige;
+    padding: 15px; 
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+section {
+    padding: 25px;
+}
+
+footer {
+    background-color: slategrey;
+    color: seashell;
+    padding: 10px;
+    text-align: center;
+}
